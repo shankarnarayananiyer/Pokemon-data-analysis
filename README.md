@@ -14,7 +14,6 @@ The dataset used is **`pokemon_data.csv`**, which contains attributes such as:
 * **Generation** – Which generation the Pokémon belongs to
 * **Legendary** – Boolean indicating if the Pokémon is legendary
 
----
 
 ## ⚙️ Steps in the Analysis
 
@@ -51,7 +50,6 @@ The dataset used is **`pokemon_data.csv`**, which contains attributes such as:
 * Saved cleaned dataset as `pokemon_data_cleaned.csv`
 * Exported grouped insights (e.g., average stats by type)
 
----
 
 ## 📊 Key Insights
 
@@ -60,7 +58,6 @@ The dataset used is **`pokemon_data.csv`**, which contains attributes such as:
 * **Generation 1** Pokémon dominate in frequency but not always in strength.
 * Speed and Attack show strong variance across different Pokémon types.
 
----
 
 ## 🚀 Tech Stack
 
@@ -68,7 +65,6 @@ The dataset used is **`pokemon_data.csv`**, which contains attributes such as:
 * **Pandas** – Data cleaning & analysis
 * **Matplotlib & Seaborn** – Visualization
 
----
 
 ## 📌 How to Run
 
@@ -89,7 +85,7 @@ The dataset used is **`pokemon_data.csv`**, which contains attributes such as:
    jupyter notebook pokemon_analysis.ipynb
    ```
 
----
+
 
 ## 📈 Future Improvements
 
@@ -97,7 +93,7 @@ The dataset used is **`pokemon_data.csv`**, which contains attributes such as:
 * Create interactive dashboards using **Plotly or Power BI**.
 * Extend analysis with **battle simulations** or type effectiveness.
 
----
+
 
 ## ✨ Author
 
@@ -107,6 +103,3 @@ The dataset used is **`pokemon_data.csv`**, which contains attributes such as:
 * 🎯 Data Analyst | SQL | Python | Power BI | Pandas | Tableau
 * 💼 Looking for roles in Business/Data Analysis in Germany
 
----
-
-Would you like me to also **generate a folder structure suggestion** (like `data/`, `notebooks/`, `outputs/`) so your GitHub project looks more professional?
